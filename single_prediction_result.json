@@ -1,0 +1,11 @@
+{
+    "file_name": "image_orag.webp",
+    "predicted_class": "fresh",
+    "confidence": 0.9972466230392456,
+    "probabilities": {
+        "blackspot": 2.60260931099765e-05,
+        "canker": 0.0003095237188972533,
+        "fresh": 0.9972466230392456,
+        "greening": 0.002417815150693059
+    }
+}
