@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# Flask related
+instance/
+*.db
+*.sqlite3
+
+# Model files (optional: if you're storing .h5 elsewhere)
+*.h5
+
+# Image uploads or generated files
+*.jpg
+*.jpeg
+*.png
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Node modules (if using any npm in frontend)
+node_modules/
+
+# OS generated
+desktop.ini
+
+# Build & Deployment
+build/
+dist/
+*.egg-info/
