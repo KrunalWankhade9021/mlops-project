@@ -19,10 +19,6 @@ instance/
 # Model files (optional: if hosted elsewhere)
 # models/*.h5
 
-# Uploaded/generated images
-*.jpg
-*.jpeg
-*.png
 
 # Logs
 *.log
